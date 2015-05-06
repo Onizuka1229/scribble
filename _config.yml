@@ -1,13 +1,15 @@
 title:            Scribble
 description:      A jekyll theme. Because I scribble.
+<<<<<<< HEAD
 baseurl:          /scribble
-url:              # Site url.
-signoff:          # Your name.
-disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
+url:              http://jiaguo.xyz
+signoff:          佳锅锅
+disqus_shortname: Jiaguoguo
 facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
 google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
 
 links:
+
   - name:         About
     url:          /about
   - name:         Blog
@@ -19,7 +21,11 @@ links:
   - name:         GitHub
     url:          http://github.com/muan
     external:     true
+
 highlighter:      pygments
+
+pygments:         true
+
 permalink:        pretty
 markdown:         redcarpet
 redcarpet:
