@@ -1,8 +1,7 @@
 title:            Scribble
 description:      A jekyll theme. Because I scribble.
-<<<<<<< HEAD
-baseurl:          /scribble
-url:              
+
+url:              http://jiaguo.xyz
 signoff:          佳锅锅
 disqus_shortname: Jiaguoguo
 facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
