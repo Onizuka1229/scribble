@@ -1,24 +1,26 @@
-title:            Scribble
-description:      A jekyll theme. Because I scribble.
+title:            佳锅锅
+description:      一个很 Low 的 Ruby 程序员。但是，他们喜欢叫我 Artist.
 
 url:              http://jiaguo.xyz
 signoff:          佳锅锅
-disqus_shortname: Jiaguoguo
+disqus_shortname: 加锅锅
 facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
 google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
 
 links:
-
-  - name:         About
+  - name:         关于
     url:          /about
-  - name:         Blog
-    url:          http://jiaguo.xyz
-    external:     true
-  - name:         Email
-    url:          mailto:hello@muan.co
+  - name:         Feed
+    url:          /feed.xml
     external:     true
   - name:         GitHub
-    url:          http://github.com/muan
+    url:          http://github.com/onizuka1229
+    external:     true
+  - name:         Twitter
+    url:          https://twitter.com/oni7uka
+    external:     true
+  - name:         微博
+    url:          http://weibo.com/oni7uka
     external:     true
 
 highlighter:      pygments
